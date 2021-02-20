@@ -41,5 +41,6 @@
 
 
 .header_icon {
-    margin: 86px !important;
+    margin-right: 20px;
+    border: 1px solid lightgray;
 }

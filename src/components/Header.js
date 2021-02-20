@@ -23,7 +23,7 @@ function Header() {
                 <SearchIcon className="header__inputButton" />
             </div>
             <div className="header__icons">
-                <VideoCallIcon classNamer="header_icon"/>
+                <VideoCallIcon className="header_icon"/>
                 <AppsIcon classNamer="header_icon"/>
                 <NotificationsIcon classNamer="header_icon"/>
                 <Avatar >OP</Avatar>
