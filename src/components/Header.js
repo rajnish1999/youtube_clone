@@ -32,7 +32,7 @@ function Header() {
                 <VideoCallIcon className="header__icon"/>
                 <AppsIcon className="header__icon"/>
                 <NotificationsIcon className="header__icon"/>
-                <Avatar >OP</Avatar>
+                <Avatar >RT</Avatar>
             </div>
             
         </div>

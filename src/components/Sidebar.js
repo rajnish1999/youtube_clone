@@ -18,12 +18,12 @@ function Sidebar() {
             <SidebarRow Icon={WhatshotIcon} title="Trending" />
             <SidebarRow Icon={SubscriptionsIcon} title="Subscription" />    
             <hr />   
-            <SidebarRow Icon={VideoLibraryIcon} title="Trending" />
-            <SidebarRow Icon={HistoryIcon} title="Subscription" />
-            <SidebarRow Icon={OndemandVideoIcon} title="Trending" />
-            <SidebarRow Icon={WatchLaterIcon} title="Subscription" />
-            <SidebarRow Icon={ThumbUpAltOutlinedIcon} title="Trending" />
-            <SidebarRow Icon={ExpandMoreOutlinedIcon} title="Subscription" />
+            <SidebarRow Icon={VideoLibraryIcon} title="Library" />
+            <SidebarRow Icon={HistoryIcon} title="History" />
+            <SidebarRow Icon={OndemandVideoIcon} title="Your videos" />
+            <SidebarRow Icon={WatchLaterIcon} title="Watch later" />
+            <SidebarRow Icon={ThumbUpAltOutlinedIcon} title="Liked videos" />
+            <SidebarRow Icon={ExpandMoreOutlinedIcon} title="Show more" />
             <hr />
         </div>
     )
