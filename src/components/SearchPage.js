@@ -2,6 +2,7 @@ import React from 'react'
 import TuneOutlinedIcon from '@material-ui/icons/TuneOutlined';
 import "../SearchPage.css"
 import ChannelRow from './ChannelRow'
+import VideoRow from './VideoRow';
 
 function SearchPage() {
     return (
@@ -22,6 +23,70 @@ function SearchPage() {
             />
 
             <hr />
+            
+            <VideoRow 
+                views='1.4M'
+                subs='600M'description='You can find awesome programming content here'
+                timestamp='59 seconds ago'
+                channel='Rajnish Programmer'
+                title="©️ Let's buid a youtube clone using react js"
+                image='https://picsum.photos/200/300'
+            />
+            <VideoRow 
+                views='1.4M'
+                subs='600M'description='You can find awesome programming content here'
+                timestamp='59 seconds ago'
+                channel='Rajnish Programmer'
+                title="©️ Let's buid a youtube clone using react js"
+                image='https://picsum.photos/200/300'
+            />
+            <VideoRow 
+                views='1.4M'
+                subs='600M'description='You can find awesome programming content here'
+                timestamp='59 seconds ago'
+                channel='Rajnish Programmer'
+                title="©️ Let's buid a youtube clone using react js"
+                image='https://picsum.photos/200/300'
+            />
+            <VideoRow 
+                views='1.4M'
+                subs='600M'description='You can find awesome programming content here'
+                timestamp='59 seconds ago'
+                channel='Rajnish Programmer'
+                title="©️ Let's buid a youtube clone using react js"
+                image='https://picsum.photos/200/300'
+            />
+            <VideoRow 
+                views='1.4M'
+                subs='600M'description='You can find awesome programming content here'
+                timestamp='59 seconds ago'
+                channel='Rajnish Programmer'
+                title="©️ Let's buid a youtube clone using react js"
+                image='https://picsum.photos/200/300'
+            />
+            <VideoRow 
+                views='1.4M'
+                subs='600M'description='You can find awesome programming content here'
+                timestamp='59 seconds ago'
+                channel='Rajnish Programmer'
+                title="©️ Let's buid a youtube clone using react js"
+                image='https://picsum.photos/200/300'
+            /><VideoRow 
+                views='1.4M'
+                subs='600M'description='You can find awesome programming content here'
+                timestamp='59 seconds ago'
+                channel='Rajnish Programmer'
+                title="©️ Let's buid a youtube clone using react js"
+                image='https://picsum.photos/200/300'
+            />
+            <VideoRow 
+                views='1.4M'
+                subs='600M'description='You can find awesome programming content here'
+                timestamp='59 seconds ago'
+                channel='Rajnish Programmer'
+                title="©️ Let's buid a youtube clone using react js"
+                image='https://picsum.photos/200/300'
+            />
         </div>
     )
 }
