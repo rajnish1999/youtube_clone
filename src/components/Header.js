@@ -29,9 +29,9 @@ function Header() {
                 
             </div>
             <div className="header__icons">
-                <VideoCallIcon className="header_icon"/>
-                <AppsIcon classNamer="header_icon"/>
-                <NotificationsIcon classNamer="header_icon"/>
+                <VideoCallIcon className="header__icon"/>
+                <AppsIcon className="header__icon"/>
+                <NotificationsIcon className="header__icon"/>
                 <Avatar >OP</Avatar>
             </div>
             

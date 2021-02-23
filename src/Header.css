@@ -39,8 +39,11 @@
     border: none;
 }
 
+.header__input > input:focus {
+    outline:0 !important;
+}
 
-.header_icon {
+
+.header__icon {
     margin-right: 20px;
-    border: 1px solid lightgray;
 }
