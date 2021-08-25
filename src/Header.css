@@ -40,9 +40,7 @@
     border: none;
 }
 
-.header__input > input:focus {
-    outline:0 !important;
-}
+.header__input > input:focus {outline:0 !important}
 
 
 .header__icon {
